@@ -5,8 +5,8 @@ var async = require('async')
 var await = require('await')
 const web3 = new Web3('https://ropsten.infura.io/v3/7bc3250b95194b04b89d7ca9284d4e5a')
 
-const account1 = "0x1c47ab2738e07114450F8a1B58a5DaFed1c01026"
-const account2 = "0x909c183ce8F35634e94b899C6Ae96243cc3fD976"
+const account1 = "0xe3eadD86BB71dA3b05489029Dbc4574fc24F0C4f"
+const account2 = "0xc84518768Ae3b1a0481C628f74618c3a198F0e26"
 
 // Private Keys of respective accounts
 const privateKey1 = Buffer.from(
